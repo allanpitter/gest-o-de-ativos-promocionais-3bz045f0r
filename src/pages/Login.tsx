@@ -57,13 +57,13 @@ export default function Login() {
         <div className="relative z-10">
           <div className="flex items-center gap-3">
             <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-[#00C853] to-[#00A844] flex items-center justify-center font-black text-2xl shadow-[0_0_20px_rgba(0,200,83,0.4)]">
-              P
+              M
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <span className="text-2xl font-black tracking-wider">PROFILE</span>
-                <span className="text-xs font-bold px-2 py-0.5 rounded bg-[#7C4DFF]/30 text-[#A78BFA] border border-[#7C4DFF]/40">
-                  MBRF
+                <span className="text-2xl font-black tracking-wider text-white">MBRF</span>
+                <span className="text-xs font-bold px-2 py-0.5 rounded bg-[#00C853]/20 text-[#00C853] border border-[#00C853]/30">
+                  TRADE
                 </span>
               </div>
               <p className="text-xs text-[#94A3B8] font-medium">Gestão de Ativos Promocionais</p>
@@ -108,7 +108,7 @@ export default function Login() {
             <ShieldCheck size={16} className="text-[#00C853]" />
             <span>Ambiente Seguro MBRF Trade Cloud</span>
           </div>
-          <span>www.profilelog.com.br</span>
+          <span className="text-slate-500 font-mono">v1.2.0 • Trade PDV</span>
         </div>
       </div>
 
