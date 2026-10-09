@@ -184,13 +184,13 @@ export default function Layout() {
           <div className="h-16 px-6 flex items-center justify-between border-b border-[#1E293B]">
             <div className="flex items-center gap-3">
               <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-[#00C853] to-[#00A844] flex items-center justify-center text-white font-extrabold text-lg shadow-[0_0_15px_rgba(0,200,83,0.35)]">
-                P
+                M
               </div>
               <div>
                 <div className="flex items-center gap-1.5">
-                  <span className="text-white font-black tracking-wider text-lg">PROFILE</span>
-                  <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-[#7C4DFF]/30 text-[#A78BFA] border border-[#7C4DFF]/40">
-                    MBRF
+                  <span className="text-white font-black tracking-wider text-lg">MBRF</span>
+                  <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-[#00C853]/20 text-[#00C853] border border-[#00C853]/30">
+                    TRADE
                   </span>
                 </div>
                 <p className="text-[11px] text-[#64748B] font-medium leading-none mt-0.5">
@@ -474,9 +474,7 @@ export default function Layout() {
         {/* Footer */}
         <footer className="border-t border-slate-200 bg-white/60 py-4 px-6 md:px-8 text-xs text-slate-500 flex flex-col md:flex-row items-center justify-between gap-3">
           <div>
-            <span className="font-semibold text-slate-700">
-              © 2025 MBRF — Profile Trade Marketing
-            </span>
+            <span className="font-semibold text-slate-700">© 2025 MBRF — Trade Marketing</span>
             <span className="ml-2 text-slate-400">v1.2.0 • Zero-Touch Connected</span>
           </div>
           <div className="flex items-center flex-wrap gap-4 text-slate-500">

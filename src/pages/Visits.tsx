@@ -190,7 +190,7 @@ export default function Visits() {
 
       toast({
         title: 'Check-out concluído!',
-        description: 'Dados sincronizados com a base Profile MBRF.',
+        description: 'Dados sincronizados com a base MBRF.',
       })
 
       setChecklistModalOpen(false)

@@ -100,7 +100,7 @@ export default function Reports() {
     const encodedUri = encodeURI(csvContent)
     const link = document.createElement('a')
     link.setAttribute('href', encodedUri)
-    link.setAttribute('download', `relatorio_profile_mbrf_${activeReport}_${period}d.csv`)
+    link.setAttribute('download', `relatorio_mbrf_${activeReport}_${period}d.csv`)
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)

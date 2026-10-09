@@ -49,8 +49,8 @@ export default function VerifyEmail() {
             </div>
             <h2 className="text-2xl font-black text-slate-900">E-mail Confirmado!</h2>
             <p className="text-slate-600 text-xs mt-2 leading-relaxed">
-              Sua conta foi ativada com sucesso. Agora você tem acesso pleno à plataforma Profile
-              Trade Marketing.
+              Sua conta foi ativada com sucesso. Agora você tem acesso pleno à plataforma MBRF Trade
+              Marketing.
             </p>
             <Link
               to="/login"

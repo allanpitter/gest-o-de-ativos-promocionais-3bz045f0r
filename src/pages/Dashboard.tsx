@@ -180,8 +180,7 @@ export default function Dashboard() {
               "Mais do que presença no PDV. É conversão, controle e resultado na veia."
             </div>
             <p className="text-[11px] text-slate-400 mt-0.5">
-              Profile Trade Marketing para MBRF • Rastreabilidade ponta a ponta com QR Code e
-              Geo-Validação
+              MBRF Trade Marketing • Rastreabilidade ponta a ponta com QR Code e Geo-Validação
             </p>
           </div>
         </div>

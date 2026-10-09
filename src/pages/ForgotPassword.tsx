@@ -54,7 +54,7 @@ export default function ForgotPassword() {
             <div className="text-center mb-6">
               <h2 className="text-2xl font-black text-slate-900">Recuperar Senha</h2>
               <p className="text-slate-500 text-xs mt-1">
-                Insira o email associado à sua conta MBRF Profile
+                Insira o email associado à sua conta MBRF
               </p>
             </div>
 

@@ -90,7 +90,7 @@ export default function Register() {
 
         <div className="text-center mb-6">
           <h2 className="text-2xl font-black text-slate-900">Cadastrar Nova Conta</h2>
-          <p className="text-slate-500 text-xs mt-1">Plataforma Profile MBRF — Operação de Campo</p>
+          <p className="text-slate-500 text-xs mt-1">Plataforma MBRF — Operação de Campo</p>
         </div>
 
         {error && (
